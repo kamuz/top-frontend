@@ -1,0 +1,55 @@
+
+# Top Tools for Front End
+
+- [ace](https://github.com/ajaxorg/ace) - browser based text editor like Vim, Sublime etc.
+- [anchor-js](https://github.com/bryanbraun/anchorjs) - deep anchor links
+- [animate-css](https://github.com/daneden/animate.css) - cross-browser CSS animations
+- [backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - dynamically-resized, slideshow-capable background image
+- [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown) - markdown editor for Bootstrap
+- [bootstrap-toc](https://github.com/afeld/bootstrap-toc) - an automatic table of contents generator with Bootstrap
+- [chosen](https://github.com/harvesthq/chosen/) - jQuery library making long, unwieldy select boxes more friendly
+- [clipboard-js](https://github.com/zenorocha/clipboard.js) - modern copy to clipboard
+- [codemirror](https://github.com/codemirror/codemirror) - in-browser code editor
+- [daterangepicker](https://github.com/dangrossman/daterangepicker) - date range, custom date and time picker
+- [devicon](https://github.com/konpa/devicon) - font icons of programming languages, designing & development tools
+- [equalheights](https://github.com/mattbanks/jquery.equalheights) - simple equal heights
+- [fancybox](https://github.com/fancyapps/fancybox) - lightbox for images, videos and more
+- [font-awesome](https://github.com/fortawesome/font-awesome) - the most popular font icons
+- [fonticonpicker](https://github.com/micc83/fonticonpicker) - include a icon picker with search and pagination inside your forms
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - a full-sized drag & drop event calendar
+- [fullpage-js](https://github.com/alvarotrigo/fullpage.js) - fullscreen scrolling
+- [gifplayer](https://github.com/rubentd/gifplayer) - play and stop animated gifs
+- [highlight-js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter
+- [ionicons](https://github.com/ionic-team/ionicons) - font icons from Ionic Framework
+- [isotope](https://github.com/metafizzy/isotope) - filter & sort layouts
+- [list-js](https://github.com/javve/list.js) -  adding search, sort, filters and flexibility to tables, lists and various HTML elements
+- [loaders-css](https://github.com/connoratherton/loaders.css) - pure css loading animations
+- [logos](https://github.com/gilbarbara/logos) - collection of SVG logos
+- [magnific-popup](https://github.com/dimsemenov/magnific-popup) - light and responsive lightbox
+- [marked](https://github.com/markedjs/marked) - compiler for parsing markdown
+- [masonry](https://github.com/desandro/masonry) - cascading grid layout
+- [match-height](https://github.com/liabru/jquery-match-height) - responsive equal heights
+- [material-design-icons](https://github.com/google/material-design-icons) - material design icons from Google
+- [mediaelement-js](https://github.com/mediaelement/mediaelement) - HTML5 video and audio player
+- [mixitup](https://github.com/patrickkunka/mixitup/) - animated filtering, sorting, insertion, removal
+- [mmenu](https://github.com/frdh/jquery.mmenu) - off-canvas menus with sliding submenus
+- [one-page-nav](https://github.com/davist11/jquery-one-page-nav) - smooth scrolling navigation for one-page sites
+- [owl-carousel](https://github.com/owlcarousel2/owlcarousel2) - responsive carousel.
+- [photoswipe](https://github.com/dimsemenov/photoswipe) - image gallery for mobile and desktop
+- [pjax](https://github.com/defunkt/jquery-pjax) - deliver a fast browsing experience with real permalinks, page titles, and a working back button
+- [rayveal](https://github.com/planetoftheweb/rayveal) - custom version of reveal.js
+- [reveal-js](https://github.com/hakimel/reveal.js) - HTML presentation framework
+- [selectize-js](https://github.com/selectize/selectize.js/) - is the hybrid of a textbox and select box and useful for tagging, contact lists, country selectors
+- [sharer-js](https://github.com/ellisonleao/sharer.js) - custom social share buttons
+- [slick](https://github.com/kenwheeler/slick) - responsive carousel
+- [slickquiz](https://github.com/jewlofthelotus/slickquiz) - a jQuery plugin for creating pretty, dynamic quizzes
+- [social-likes-next](https://github.com/sapegin/social-likes-next) - SVG share buttons with different styles
+- [superfish](https://github.com/joeldbirch/superfish) - multi-level drop-down menu
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - replacement for JavaScript's popup boxes
+- [switcher](https://github.com/djanix/jquery.switcher) - custom checkbox, radio button
+- [typed-js](https://github.com/mattboldt/typed.js) - JavaScript typing animation library
+- [typeit](https://github.com/alexmacarthur/typeit) - animated typing utility
+- [uikit](https://github.com/uikit/uikit) - lightweight and modular front-end framework
+- [vivus-js](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
+- [waypoints](https://github.com/imakewebthings/waypoints) - easy to execute a function whenever you scroll to an element
+- [wow](https://github.com/matthieua/wow) - reveal css animation as you scroll down a page

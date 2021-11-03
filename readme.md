@@ -1,20 +1,12 @@
 # Top Tools for Front End
 
-- [ace](https://github.com/ajaxorg/ace) - browser based text editor like Vim, Sublime etc.
 - [anchor-js](https://github.com/bryanbraun/anchorjs) - deep anchor links
 - [animate-css](https://github.com/daneden/animate.css) - cross-browser CSS animations
 - [backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - dynamically-resized, slideshow-capable background image
-- [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown) - markdown editor for Bootstrap
 - [bootstrap-toc](https://github.com/afeld/bootstrap-toc) - an automatic table of contents generator with Bootstrap
-- [chosen](https://github.com/harvesthq/chosen/) - jQuery library making long, unwieldy select boxes more friendly
 - [clipboard-js](https://github.com/zenorocha/clipboard.js) - modern copy to clipboard
 - [codemirror](https://github.com/codemirror/codemirror) - in-browser code editor
 - [daterangepicker](https://github.com/dangrossman/daterangepicker) - date range, custom date and time picker
-- [devicon](https://github.com/konpa/devicon) - font icons of programming languages, designing & development tools
-- [equalheights](https://github.com/mattbanks/jquery.equalheights) - simple equal heights
-- [fancybox](https://github.com/fancyapps/fancybox) - lightbox for images, videos and more
-- [font-awesome](https://github.com/fortawesome/font-awesome) - the most popular font icons
-- [fonticonpicker](https://github.com/micc83/fonticonpicker) - include a icon picker with search and pagination inside your forms
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - a full-sized drag & drop event calendar
 - [fullpage-js](https://github.com/alvarotrigo/fullpage.js) - fullscreen scrolling
 - [gifplayer](https://github.com/rubentd/gifplayer) - play and stop animated gifs

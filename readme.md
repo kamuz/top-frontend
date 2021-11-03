@@ -31,8 +31,8 @@
 - [sharer-js](https://github.com/ellisonleao/sharer.js) - custom social share buttons
 - [slick](https://github.com/kenwheeler/slick) - responsive carousel
 - [sticky-kit](https://github.com/leafo/sticky-kit) - sticky elements
-- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - replacement default popup boxes
 - [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
+- [toastr](https://github.com/codeseven/toastr) - simple JavaScript toast notifications
 - [typeit](https://github.com/alexmacarthur/typeit) - animated typing utility
 - [uikit](https://github.com/uikit/uikit) - lightweight and modular front-end framework
 - [waypoints](https://github.com/imakewebthings/waypoints) - easy to execute a function whenever you scroll to an element

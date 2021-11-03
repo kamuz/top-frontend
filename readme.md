@@ -25,7 +25,7 @@
 - [mediaelement-js](https://github.com/mediaelement/mediaelement) - HTML5 video and audio player
 - [mmenu](https://github.com/frdh/jquery.mmenu) - off-canvas menus with sliding submenus
 - [photoswipe](https://github.com/dimsemenov/photoswipe) - image gallery for mobile and desktop
-- [plyr]https://github.com/sampotts/plyr) - input mask plugin
+- [plyr](https://github.com/sampotts/plyr) - input mask plugin
 - [rayveal](https://github.com/planetoftheweb/rayveal) - custom version of reveal.js
 - [select2](https://github.com/select2/select2) - replacement for select boxes
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) - UI component framework

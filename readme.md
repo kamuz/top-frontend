@@ -2,7 +2,6 @@
 
 - [anchor-js](https://github.com/bryanbraun/anchorjs) - deep anchor links
 - [animate-css](https://github.com/daneden/animate.css) - cross-browser CSS animations
-- [backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - dynamically-resized, slideshow-capable background image
 - [clipboard-js](https://github.com/zenorocha/clipboard.js) - modern copy to clipboard
 - [codemirror](https://github.com/codemirror/codemirror) - in-browser code editor
 - [croppie](https://github.com/foliotek/croppie) - JavaScript image cropper
@@ -14,18 +13,18 @@
 - [fullpage-js](https://github.com/alvarotrigo/fullpage.js) - fullscreen scrolling
 - [gifplayer](https://github.com/rubentd/gifplayer) - play and stop animated gifs
 - [highlight-js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter
-- [inputmask](https://github.com/robinherbots/inputmask) - simple video player
+- [inputmask](https://github.com/robinherbots/inputmask) - input mask plugin
 - [isotope](https://github.com/metafizzy/isotope) - filter & sort layouts
 - [jquery-validation](https://github.com/jquery-validation/jquery-validation) - validation for your existing forms
 - [js-cookie](https://github.com/js-cookie/js-cookie) - JavaScript API for handling browser cookies
-- [list-js](https://github.com/javve/list.js) -  adding search, sort, filters and flexibility to tables, lists and various HTML elements
+- [list-js](https://github.com/javve/list.js) -  search, sort, filters to tables, lists and various HTML elements
 - [logos](https://github.com/gilbarbara/logos) - collection of SVG logos
 - [magnific-popup](https://github.com/dimsemenov/magnific-popup) - light and responsive lightbox
 - [masonry](https://github.com/desandro/masonry) - cascading grid layout
 - [mediaelement-js](https://github.com/mediaelement/mediaelement) - HTML5 video and audio player
 - [mmenu](https://github.com/frdh/jquery.mmenu) - off-canvas menus with sliding submenus
 - [photoswipe](https://github.com/dimsemenov/photoswipe) - image gallery for mobile and desktop
-- [plyr](https://github.com/sampotts/plyr) - input mask plugin
+- [plyr](https://github.com/sampotts/plyr) - simple video player
 - [rayveal](https://github.com/planetoftheweb/rayveal) - custom version of reveal.js
 - [select2](https://github.com/select2/select2) - replacement for select boxes
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) - UI component framework

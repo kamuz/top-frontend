@@ -13,6 +13,9 @@
 - [fullpage-js](https://github.com/alvarotrigo/fullpage.js) - fullscreen scrolling
 - [gifplayer](https://github.com/rubentd/gifplayer) - play and stop animated gifs
 - [highlight-js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter
+- [icons-boostrap](https://github.com/twbs/icons) - SVG icon library for Bootstrap
+- [icons-orchid](https://github.com/orchidsoftware/icons) - simple and minimal line icons
+- [icons-simple](https://github.com/simple-icons/simple-icons/) - SVG icons for popular brands
 - [inputmask](https://github.com/robinherbots/inputmask) - input mask plugin
 - [isotope](https://github.com/metafizzy/isotope) - filter & sort layouts
 - [jquery-validation](https://github.com/jquery-validation/jquery-validation) - validation for your existing forms

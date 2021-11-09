@@ -11,6 +11,7 @@
 - [filterizr](https://github.com/giotiskl/filterizr) - search, sorts and filters responsive galleries
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - a full-sized drag & drop event calendar
 - [fullpage-js](https://github.com/alvarotrigo/fullpage.js) - fullscreen scrolling
+- [gatsby](https://github.com/gatsbyjs/gatsby) - static site generator based on React
 - [gifplayer](https://github.com/rubentd/gifplayer) - play and stop animated gifs
 - [highlight-js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter
 - [icons-boostrap](https://github.com/twbs/icons) - SVG icon library for Bootstrap

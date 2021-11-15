@@ -27,6 +27,7 @@
 - [masonry](https://github.com/desandro/masonry) - cascading grid layout
 - [mediaelement-js](https://github.com/mediaelement/mediaelement) - HTML5 video and audio player
 - [mmenu](https://github.com/frdh/jquery.mmenu) - off-canvas menus with sliding submenus
+- [normalize-css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets
 - [photoswipe](https://github.com/dimsemenov/photoswipe) - image gallery for mobile and desktop
 - [plyr](https://github.com/sampotts/plyr) - simple video player
 - [rayveal](https://github.com/planetoftheweb/rayveal) - custom version of reveal.js
